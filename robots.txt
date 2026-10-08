@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://nehagrwal.github.io/truvantage-male-enhancement/sitemap.xml
+Sitemap: https://truvantage-male-enhancement.vercel.app/sitemap-vercel.xml
+Sitemap: https://truvantage-male-enhancement.pages.dev/sitemap-cloudflare.xml
